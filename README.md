@@ -17,4 +17,4 @@ i tried to lower the encoded code size but some distortion in the text itself wo
 
 ## Some Results:
 
-![download.png](results/download.png)
+![result.png](reuslt.png)
